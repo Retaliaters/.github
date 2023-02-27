@@ -8,6 +8,8 @@ and ethical hackers.
 New contributors can join our [discord](https://discord.gg/8fRqcDb5Te) server and interact with admins for contribution in the main branch or can create a [pull 
 request](https://github.com/KCREEK/retaliaters) or can also create [Issues](https://github.com/KCREEK/retaliaters/issues).
 
+Please visit our [Contribution page](https://github.com/Retaliaters/Contribution-page) for additional guidelines.
+
 <!--
 
 **Here are some ideas to get you started:**

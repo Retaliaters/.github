@@ -1,6 +1,6 @@
 ## Welcome to Retaliaters
 
-A community that helps people with like minded interest in the field of web-development or cybersecurity unite. Our community consists of web-developers
+A company that helps people with like minded interest in the field of web-development or cybersecurity unite. Our community consists of web-developers
 and ethical hackers.
 
 ## Contribution Guidelines
